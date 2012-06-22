@@ -1,0 +1,6 @@
+name: EyeSwitchPlugin
+version: 0.1.1
+description: Arrow-operated redstone switch.
+load: STARTUP
+author: lvk
+main: nl.live.lvk2.z64eyeswitch.EyeSwitchPlugin
