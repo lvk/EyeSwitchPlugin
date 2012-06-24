@@ -10,11 +10,6 @@ public class EyeSwitchPlugin extends JavaPlugin {
     public String tex_eyeopen;
     public String tex_eyeclosed;
     public static EyeSwitchPlugin instance;
-
-    /*@Override
-    public void onDisable(){ 
-    
-    }*/
     
     public void loadConfig(){
         getConfig().options().copyDefaults(true);
