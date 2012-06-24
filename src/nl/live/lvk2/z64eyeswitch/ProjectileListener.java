@@ -3,7 +3,6 @@ package nl.live.lvk2.z64eyeswitch;
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.entity.ProjectileHitEvent;
 
 public class ProjectileListener implements Listener {
