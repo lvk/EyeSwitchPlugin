@@ -20,9 +20,4 @@ public class ProjectileListener implements Listener {
                 new RunnableArrowThread(event),
                 0L);
     }
-    
-    @EventHandler
-    public void BlockPlace(BlockPlaceEvent event){
-        //event.
-    }
 }
